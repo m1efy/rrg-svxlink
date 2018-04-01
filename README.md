@@ -7,11 +7,11 @@ First ensure you have GIT installed...
 sudo apt-get update
 sudo apt-get -y git
 ```
-Then download this GIT repository:
+Then download this GIT repository...
 ```
 git clone https://github.com/m1efy/rrg-svxlink.git
 ```
-Execute the shell script to run the build:
+Execute the shell script to run the build...
 ```
 cd rrg-svxlink
 sudo sh build-svxlink.sh
