@@ -21,3 +21,4 @@ sudo sh build-svxlink.sh
 ```
 Wait while the script downloads the packages and performs the build and installation.
 
+The final configuration of svxlink will depend upon the chosen method of connection to the repeater. 
